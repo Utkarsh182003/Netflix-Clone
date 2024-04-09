@@ -1,5 +1,5 @@
 # Netflix-Clone
-    Netflix Clone using React JS
+    Netflix Clone created using React JS
 
 
 
@@ -14,10 +14,10 @@
 ***
 #### How to install ReactJs?
 
-``` npx create-react-app@latest app-name ```
+``` npx create-react-app app-name ```
 ***
 #### Fetched Data of All the movies from [TMDB](https://www.themoviedb.org/)
-    1. Create an account in 
+    1. Create an account in TMDB
 [TMDB](https://www.themoviedb.org/)
 
     2. Go to settings
@@ -29,5 +29,5 @@
      ```
      git clone https://github.com/Utkarsh182003/Netflix-Clone.git
     ```
-    *  ```cd Netflix-clone```
+    *  ```cd Netflix-Clone```
     * ``` npm install ``` - To install all the dependencies
