@@ -1,4 +1,4 @@
-It's live here :[live](https://freeflix-react.netlify.app/)
+It's live here : [DEMO](https://freeflix-react.netlify.app/)
 # Netflix-Clone
     Netflix Clone created using React JS
 
